@@ -2,7 +2,7 @@
 	{
         "id": "http://zotero.org/groups/5618423/items/VO250921137",
         "type": "article-journal",
-        "container-title": "accepted to SIAM Conference on Parallel Processing 2025",
+        "container-title": "accepted to SIAM Conference on Parallel Processing 2026",
         "title": "From GPUs to RRAMs: Distributed In-Memory Primal-Dual Hybrid Gradient Method for Solving Large-Scale Linear Optimization Problem",
         "link": "https://arxiv.org/abs/2509.21137",
         "author": [
@@ -15,7 +15,7 @@
             { "family": "Yildirim", "given": "Murat" }
         ],
         "issued": {
-            "date-parts": [[ "2025" ]]
+            "date-parts": [[ "2026" ]]
         }
     },
 	{
