@@ -17,26 +17,6 @@
             "date-parts": [[ "2025" ]]
         }
     },
-	{
-        "id": "http://zotero.org/groups/5618423/items/VO250921137",
-        "type": "article-conference",
-        "container-title": "arXiv preprint arXiv:2509.21137",
-        "title": "From GPUs to RRAMs: Distributed In-Memory Primal-Dual Hybrid Gradient Method for Solving Large-Scale Linear Optimization Problem",
-        "link": "https://arxiv.org/abs/2509.21137",
-		"status": "Accepted to SIAM Conference on Parallel Processing 2026",
-        "author": [
-            { "family": "Vo", "given": "Huynh QN" },
-            { "family": "Chowdhury", "given": "Md Tawsif Rahman" },
-            { "family": "Ramanan", "given": "Paritosh" },
-            { "family": "Tutuncuoglu", "given": "Gozde" },
-            { "family": "Yang", "given": "Junchi" },
-            { "family": "Qiu", "given": "Feng" },
-            { "family": "Yildirim", "given": "Murat" }
-        ],
-        "issued": {
-            "date-parts": [[ "2025" ]]
-        }
-    },
 	 {
         "id": "http://zotero.org/groups/5618423/items/RAMANAN251023060",
         "type": "article-conference",
