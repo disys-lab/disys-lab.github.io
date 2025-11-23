@@ -7,6 +7,57 @@ permalink: /publications/
 ---
 <h1>Preprints</h1>
 
+<!--<div class="panel-group" id="accordion-preprint">-->
+<!--    <div class="panel panel-default">-->
+
+<!--    {% for prepr in site.data.preprints %}-->
+<!--        <div class="panel-heading">-->
+<!--            <a data-toggle="collapse" data-parent="#accordion-preprint"-->
+<!--               href="#collapse-preprint{{forloop.index}}"-->
+<!--               style="color: inherit;">-->
+<!--            &lt;!&ndash; authors &ndash;&gt;-->
+<!--            {% assign authors = "" | split:"/" %}-->
+<!--            {% for author in prepr.author %}-->
+<!--                {% assign authors = authors | push: author.family %}-->
+<!--            {% endfor %}-->
+<!--            {{ authors | array_to_sentence_string }},-->
+
+<!--            &lt;!&ndash; title with link &ndash;&gt;-->
+<!--            "{{ prepr.title }}",-->
+
+<!--            &lt;!&ndash; container &ndash;&gt;-->
+<!--            <b>{{ prepr.container-title }}</b>-->
+
+<!--            &lt;!&ndash; issued date &ndash;&gt;-->
+<!--            ({{ prepr.issued.date-parts | jsonify | slice: 3,4 }}),-->
+
+<!--                &lt;!&ndash; status (if exists) &ndash;&gt;-->
+<!--            {% if prepr.status %}-->
+<!--                — <span style="font-weight: bold; color: #b55300;">-->
+<!--                    {{ prepr.status }}-->
+<!--                  </span>-->
+<!--            {% endif %}-->
+
+<!--            &lt;!&ndash; link &ndash;&gt;-->
+<!--                <a href="{{prepr.link}}">Link</a>-->
+<!--&lt;!&ndash;            {% if prepr.link %}&ndash;&gt;-->
+<!--&lt;!&ndash;                <a href="{{prepr.link}}"></a>&ndash;&gt;-->
+<!--&lt;!&ndash;            {% endif %}&ndash;&gt;-->
+<!--            </a>-->
+<!--        </div>-->
+
+<!--&lt;!&ndash;        <div id="collapse-preprint{{forloop.index}}" class="panel-collapse collapse">&ndash;&gt;-->
+<!--&lt;!&ndash;            <div class="panel-body">&ndash;&gt;-->
+<!--&lt;!&ndash;                <p>{{ prepr.abstract }}</p>&ndash;&gt;-->
+
+<!--&lt;!&ndash;                <a class="btn btn-outline-primary" href="{{prepr.link}}"&ndash;&gt;-->
+<!--&lt;!&ndash;                   role="button" target="blank">Link</a>&ndash;&gt;-->
+<!--&lt;!&ndash;            </div>&ndash;&gt;-->
+<!--&lt;!&ndash;        </div>&ndash;&gt;-->
+<!--    {% endfor %}-->
+<!--    </div>-->
+<!--</div>-->
+
 <div class="panel-group" id="accordion-preprint">
     <div class="panel panel-default">
 
@@ -15,6 +66,7 @@ permalink: /publications/
             <a data-toggle="collapse" data-parent="#accordion-preprint"
                href="#collapse-preprint{{forloop.index}}"
                style="color: inherit;">
+
             <!-- authors -->
             {% assign authors = "" | split:"/" %}
             {% for author in prepr.author %}
@@ -29,9 +81,9 @@ permalink: /publications/
             <b>{{ prepr.container-title }}</b>
 
             <!-- issued date -->
-            ({{ prepr.issued.date-parts | jsonify | slice: 3,4 }}),
+            ({{ prepr.issued.date-parts | jsonify | slice: 3,4 }})
 
-                <!-- status (if exists) -->
+            <!-- status (if exists) -->
             {% if prepr.status %}
                 — <span style="font-weight: bold; color: #b55300;">
                     {{ prepr.status }}
@@ -39,22 +91,12 @@ permalink: /publications/
             {% endif %}
 
             <!-- link -->
-                <a href="{{prepr.link}}">Link</a>
-<!--            {% if prepr.link %}-->
-<!--                <a href="{{prepr.link}}"></a>-->
-<!--            {% endif %}-->
+            <a href="{{prepr.link}}">Link</a>
+
             </a>
         </div>
-
-<!--        <div id="collapse-preprint{{forloop.index}}" class="panel-collapse collapse">-->
-<!--            <div class="panel-body">-->
-<!--                <p>{{ prepr.abstract }}</p>-->
-
-<!--                <a class="btn btn-outline-primary" href="{{prepr.link}}"-->
-<!--                   role="button" target="blank">Link</a>-->
-<!--            </div>-->
-<!--        </div>-->
     {% endfor %}
+
     </div>
 </div>
 
