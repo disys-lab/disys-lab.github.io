@@ -2,7 +2,7 @@
 layout: member
 category: phd-student
 title: Sathwik Yamana
-image: researcher.jpg
+image: researcher.png
 role: PhD Student
 styear: 2025
 permalink: 'team/sathwik-yamana'

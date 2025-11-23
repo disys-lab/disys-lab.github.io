@@ -31,6 +31,13 @@ permalink: /publications/
             <!-- issued date -->
             ({{ prepr.issued.date-parts | jsonify | slice: 3,4 }}),
 
+                <!-- status (if exists) -->
+            {% if prepr.status %}
+                — <span style="font-weight: bold; color: #b55300;">
+                    {{ prepr.status }}
+                  </span>
+            {% endif %}
+
             <!-- link -->
                 <a href="{{prepr.link}}">Link</a>
 <!--            {% if prepr.link %}-->
