@@ -1,49 +1,116 @@
 [
 	{
-		"id": "http://zotero.org/groups/5618423/items/D2EY3K76",
-		"type": "article-journal",
-		"container-title": "arXiv e-prints",
-		"page": "arXiv–2310",
-		"title": "Federated Battery Diagnosis and Prognosis",
-		"link": "https://arxiv.org/abs/2310.09628",
-		"author": [
-			{
-				"family": "Banu Altinpulluk",
-				"given": "Nur"
-			},
-			{
-				"family": "Altinpulluk",
-				"given": "Deniz"
-			},
-			{
-				"family": "Ramanan",
-				"given": "Paritosh"
-			},
-			{
-				"family": "Paulson",
-				"given": "Noah"
-			},
-			{
-				"family": "Qiu",
-				"given": "Feng"
-			},
-			{
-				"family": "Babinec",
-				"given": "Susan"
-			},
-			{
-				"family": "Yildirim",
-				"given": "Murat"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2023"
-				]
-			]
-		}
-	},
+        "id": "http://zotero.org/groups/5618423/items/VO250813298",
+        "type": "article-journal",
+        "container-title": "arXiv preprint arXiv:2508.13298",
+        "title": "Harnessing the Full Potential of RRAMs through Scalable and Distributed In-Memory Computing with Integrated Error Correction",
+        "link": "https://arxiv.org/abs/2508.13298",
+		"status": "Under review at Nature Communications Engineering",
+        "author": [
+            { "family": "Vo", "given": "Huynh QN" },
+            { "family": "Chowdhury", "given": "Md Tawsif Rahman" },
+            { "family": "Ramanan", "given": "Paritosh" },
+            { "family": "Yildirim", "given": "Murat" },
+            { "family": "Tutuncuoglu", "given": "Gozde" }
+        ],
+        "issued": {
+            "date-parts": [[ "2025" ]]
+        }
+    },
+	{
+        "id": "http://zotero.org/groups/5618423/items/VO250921137",
+        "type": "article-conference",
+        "container-title": "arXiv preprint arXiv:2509.21137",
+        "title": "From GPUs to RRAMs: Distributed In-Memory Primal-Dual Hybrid Gradient Method for Solving Large-Scale Linear Optimization Problem",
+        "link": "https://arxiv.org/abs/2509.21137",
+		"status": "Accepted to SIAM Conference on Parallel Processing 2026",
+        "author": [
+            { "family": "Vo", "given": "Huynh QN" },
+            { "family": "Chowdhury", "given": "Md Tawsif Rahman" },
+            { "family": "Ramanan", "given": "Paritosh" },
+            { "family": "Tutuncuoglu", "given": "Gozde" },
+            { "family": "Yang", "given": "Junchi" },
+            { "family": "Qiu", "given": "Feng" },
+            { "family": "Yildirim", "given": "Murat" }
+        ],
+        "issued": {
+            "date-parts": [[ "2025" ]]
+        }
+    },
+	 {
+        "id": "http://zotero.org/groups/5618423/items/RAMANAN251023060",
+        "type": "article-conference",
+        "container-title": "arXiv preprint arXiv:2510.23060",
+        "title": "zkSTAR: A zero knowledge system for time series attack detection enforcing regulatory compliance in critical infrastructure networks",
+        "link": "https://arxiv.org/abs/2510.23060",
+		"status": "Under review at IEEE Conference on Security and Privacy 2026",
+        "author": [
+            { "family": "Ramanan", "given": "Paritosh" },
+            { "family": "Islam", "given": "HM" },
+            { "family": "Alugula", "given": "Abhiram Reddy" }
+        ],
+        "issued": {
+            "date-parts": [[ "2025" ]]
+        }
+    },
+	{
+        "id": "http://zotero.org/groups/5618423/items/RAMANAN250808190",
+        "type": "article-conference",
+        "container-title": "arXiv preprint arXiv:2508.08190",
+        "title": "Differential Privacy for Regulatory Compliance in Cyberattack Detection on Critical Infrastructure Systems",
+        "link": "https://arxiv.org/abs/2508.08190",
+		"status": "Under review at IEEE Conference on Security and Privacy 2026",
+        "author": [
+            { "family": "Ramanan", "given": "Paritosh" },
+            { "family": "Islam", "given": "HM" },
+            { "family": "Alugula", "given": "Abhiram Reddy" }
+        ],
+        "issued": {
+            "date-parts": [[ "2025" ]]
+        }
+    },
+	    {
+        "id": "http://zotero.org/groups/5618423/items/KAZEMIAN241024052",
+        "type": "article-journal",
+        "container-title": "arXiv preprint arXiv:2410.24052",
+        "title": "Attention is All You Need to Optimize Wind Farm Operations and Maintenance",
+        "link": "https://arxiv.org/abs/2410.24052",
+			"status": "Under review at INFORMS Journal on Data Science",
+        "author": [
+            { "family": "Kazemian", "given": "Iman" },
+            { "family": "Yildirim", "given": "Murat" },
+            { "family": "Ramanan", "given": "Paritosh" }
+        ],
+        "issued": { "date-parts": [[ "2024" ]] }
+    },
+    {
+        "id": "http://zotero.org/groups/5618423/items/KAZEMIAN250318780",
+        "type": "article-journal",
+        "container-title": "arXiv preprint arXiv:2503.18780",
+        "title": "AttenMfg: An Attention Network Based Optimization Framework for Sensor-Driven Operations & Maintenance in Manufacturing Systems",
+        "link": "https://arxiv.org/abs/2503.18780",
+		"status": "Under review at International Journal of Production Economics",
+        "author": [
+            { "family": "Kazemian", "given": "Iman" },
+            { "family": "Yildirim", "given": "Murat" },
+            { "family": "Ramanan", "given": "Paritosh" }
+        ],
+        "issued": { "date-parts": [[ "2025" ]] }
+    },
+    {
+        "id": "http://zotero.org/groups/5618423/items/KAZEMIAN250514802",
+        "type": "article-journal",
+        "container-title": "arXiv preprint arXiv:2505.14802",
+        "title": "An Automated Data Engineering Pipeline for Time Series Classification Via Text Embeddings",
+        "link": "https://arxiv.org/abs/2505.14802",
+		"status": "Under review at ICLR 2026",
+        "author": [
+            { "family": "Kazemian", "given": "Iman" },
+            { "family": "Ramanan", "given": "Paritosh" },
+            { "family": "Yildirim", "given": "Murat" }
+        ],
+        "issued": { "date-parts": [[ "2025" ]] }
+    },
 	{
 		"id": "http://zotero.org/groups/5618423/items/5ACPAJM4",
 		"type": "article-journal",

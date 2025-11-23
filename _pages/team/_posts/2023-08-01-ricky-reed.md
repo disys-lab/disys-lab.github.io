@@ -1,10 +1,13 @@
 ---
 layout: member
-category: masters-student
+category: alumni
 title: Richard Reed
 image: ricky.jpg
 role: Masters (Thesis) Student
 styear: 2023
+currentpos: Industrial Engineer at Textron Aviation, Independence Kansas
+gradyear: Graduated May 2025
+thtitle: "Thesis Title : Decentralized Operations of Decarbonized Chemical Plants with Renewable Driven Transmission Systems"
 permalink: 'team/ricky-reed'
 social:
     twitter: https://twitter.com/

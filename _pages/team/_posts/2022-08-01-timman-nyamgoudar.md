@@ -6,6 +6,7 @@ image: researcher.png
 role: Masters (Thesis) Student
 styear: Aug 2022
 gradyear: Graduated Dec 2023
+currentpos: Data Analyst, Data Aces
 thtitle: "Thesis Title : Evaluating scenario generation techniques for Stochastic UC: A comparative study of Stochastic Models and Variational Autoencoders"
 permalink: 'team/timman-nyam'
 social:

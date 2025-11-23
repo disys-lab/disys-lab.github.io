@@ -88,6 +88,32 @@ permalink: /team/
 
 {% endfor %}
 
+<!-- BS Students -->
+
+<h2><a id="undergraduate-student"></a>Undergraduate Students</h2>
+{% assign members = site.posts | where: 'category', 'undergraduate-student' | sort: 'date' %}
+{% for member in members %}
+<div class="card team-member-card">
+    <div class="row mt-3">
+        <div class="col-md-2">
+            <a href={{member.url}}>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+                    class="card-img img-responsive img-thumbnail"
+                    style="filter: max-width: 100px;"/>
+            </a>
+        </div>
+
+        <div class="col-md-10">
+            <div class="card-body">
+            <h4 class="card-title">{{ member.title }}</h4>
+            <p class="card-text">{{ member.role }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endfor %}
+
 
 <!-- Lab Alumni -->
 
@@ -108,6 +134,7 @@ permalink: /team/
             <div class="card-body">
             <h4 class="card-title">{{ member.title }}, {{ member.role }}, {{ member.gradyear}}</h4>
             <p class="card-text">{{ member.thtitle }}</p>
+                <p class="card-text">{{ member.currentpos }}</p>
             </div>
         </div>
     </div>

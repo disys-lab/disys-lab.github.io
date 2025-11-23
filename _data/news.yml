@@ -1,3 +1,188 @@
+- date: 11/17/25
+  title: "Paper Accepted to SIAM Conference on Parallel Processing 2026!"
+  tags:
+    - publication
+  abstract: Lucius' work on distributed PDHG for large-scale optimization has been accepted to the SIAM Conference on Parallel Processing 2026.
+  content: >
+    Congratulations to Lucius for the acceptance of his paper on distributed
+    Primal–Dual Hybrid Gradient (PDHG) methods to the SIAM Conference on Parallel
+    Processing. His work develops scalable, parallelizable PDHG formulations designed
+    for emerging in-memory and heterogeneous computing architectures, enabling
+    significant reductions in latency and communication overhead for large-scale
+    optimization problems. 
+
+- date: 10/27/25
+  title: "Zero-Knowledge Cyberattack Detection Presented at INFORMS 2025"
+  link: "https://disys-lab.github.io/news"
+  tags:
+    - talk
+  abstract: >
+    Presentation on a zero-knowledge framework for cyberattack detection that enables
+    regulatory compliance in critical infrastructure systems without exposing utility data.
+  content: >
+    Paritosh presented the DISys Lab’s latest work on zero-knowledge cyberattack detection
+    for regulatory compliance in critical infrastructure systems at the IISE Annual
+    Conference. The talk introduced a scalable detection framework that allows regulators
+    to verify alarm correctness without gaining access to sensitive operational data from
+    utilities.
+
+    Building on residual-based statistical hypothesis testing for state-space models,
+    the framework incorporates a two-pronged zero-knowledge architecture enforcing
+    both temporal coherence of system dynamics and statistical consistency of detection
+    tests. This design enables regulators to validate cyberattack alarms in a
+    privacy-preserving manner, addressing one of the key barriers to modernizing
+    compliance standards for industrial control systems.
+
+    The approach demonstrates strong theoretical soundness and zero-knowledge guarantees,
+    and its feasibility was validated using real-world datasets from critical
+    infrastructure networks. 
+
+
+- date: 07/22/25
+  title: "Dr. Ramanan awarded new NSF grant!"
+  link: "https://news.okstate.edu/articles/engineering-architecture-technology/2025/osu_research_explores_collaborative_biofabrication_for_personalized_health_care.html"
+  tags:
+    - news
+  abstract: >
+    Dr. Ramanan to serve as co-PI on new NSF grant from MSI program targeting privacy aware design in bio-manufacturing.
+  content: >
+    A new interdisciplinary research effort at Oklahoma State University is exploring
+    how biofabrication facilities can collaboratively design personalized biomedical
+    constructs while preserving data privacy. The work, supported by the National
+    Science Foundation, focuses on enabling the secure exchange of design insights and
+    manufacturing strategies between facilities—without revealing sensitive patient
+    information or proprietary fabrication data.
+
+    The project addresses a central challenge in personalized medicine: 3D-printing
+    patient-specific tissues often requires extensive trial-and-error, but sharing
+    such manufacturing knowledge between sites raises privacy and confidentiality
+    concerns. The OSU team has developed a decentralized learning framework that
+    incorporates differential-privacy protections to enable meaningful collaboration
+    across institutions while maintaining strict privacy guarantees.
+
+    The research team includes Professors Akash Deep, Srikanthan Ramesh, and
+    Paritosh Ramanan, who together aim to advance secure biofabrication pipelines for
+    next-generation personalized health care solutions. Their work highlights OSU’s
+    growing leadership in digital manufacturing, biodesign, and privacy-preserving
+    computational methods.
+
+- date: 06/01/25
+  title: "DISys Lab Wins Best Student Paper Award for SplitVAEs"
+  link: "https://disys-lab.github.io/news"
+  tags:
+    - award
+  abstract: >
+    SplitVAEs receives the 2nd Runners Up in the IISE Energy Systems Division (ESD) Best Student Paper Award.
+  content: >
+    DISys Lab is pleased to announce that the SplitVAEs paper has received the 2nd Runners Up in the Best Student
+    Paper Award for its innovative contributions to decentralized scenario generation.
+    SplitVAEs enables stakeholders to collaboratively train generative models without
+    sharing raw data, addressing key challenges in data residency, privacy, and distributed
+    modeling. The framework demonstrates how decentralized VAEs can generate high-quality,
+    distribution-aligned scenarios suitable for robust stochastic optimization across
+    industrial and energy domains. Congratulations to Lucius for this well-deserved
+    recognition of his leadership and contributions.
+
+- date: 05/20/25
+  title: "DISys Lab Members Present Work on Decentralized Optimization and Scenario Generation"
+  link: "https://disys-lab.github.io/news"
+  tags:
+    - talk
+  abstract: >
+    Two presentations on decentralized optimization for decarbonized chemical plants
+    and decentralized importance sampling for scenario generation using VAEs.
+  content: >
+    DISys Lab members presented two research efforts centered on advancing
+    decarbonization and data-driven planning for industrial and power system operations.
+
+    The first talk, presented by Richard Reed, Saba Ghasemi, Paritosh Ramanan, and
+    Zheyu Jiang, discussed decentralized operations planning for electrified chemical
+    plants integrated with renewable-driven transmission systems. The team presented a
+    decentralized mixed-integer optimization strategy using iterative ADMM along with a
+    relaxation-to-integer transition to achieve consensus across stakeholders. Their
+    results demonstrated that decentralized unit commitment and process heating operations
+    can meet demand while preserving stakeholder privacy and maintaining performance
+    comparable to centralized benchmarks.
+
+    The second presentation, delivered by Huynh Quang Nguyen Vo, Richard Reed,
+    Saba Ghasemi Naraghi, and Zheyu Jiang, explored decentralized importance sampling
+    using variational autoencoders to generate high-fidelity industrial carbon emissions
+    scenarios. Leveraging decentralized VAE-based methods, the team demonstrated how
+    generated scenarios capture spatiotemporal interdependencies across multiple chemical
+    plants while respecting privacy constraints inherent to siloed datasets. These
+    scenarios, supported by importance weighting, were shown to improve stochastic
+    optimization workflows for planning decarbonized industrial and power system
+    operations.
+
+- date: 04/23/25
+  title: "Paper accepted at ICLR 2025!"
+  link: "https://disys-lab.github.io/news"
+  tags:
+    - paper
+  abstract: Our paper on Federated Granger Causality accepted as a paper at ICLR 2025!
+  content: >
+           Dr. Ramanan will be attending ICLR 2025 in Singapore. This is joint work with Ayush Mohanty and Nagi Gebraeel at Georgia Tech and follows from our experiences building 
+           large scale decentralized machine learning models as part of the NASA HOME STRI project
+
+- date: 04/15/25
+  title: "Master's Thesis Defense: Congratulations Ricky!"
+  tags:
+    - defense
+  abstract: Ricky Reed successfully defends his Master's thesis on decentralized operations planning for electrified chemical plants.
+  content: >
+    Ricky's research focuses on developing decentralized optimization methods for
+    operations planning in electrified chemical process heating systems integrated
+    with renewable-driven power grids. His work leverages iterative ADMM and
+    relaxation-to-integer transitions to coordinate decision-making across multiple
+    stakeholders while preserving operational privacy. Congratulations to Ricky on
+    an excellent defense and impactful contributions to the DISys Lab's research
+    on industrial decarbonization.
+
+- date: 04/07/25
+  title: "InCySe Hackathon 2025: Both Challenges Are Now Live!"
+  link: "https://disys-lab.github.io/incyse/"
+  tags:
+    - event
+    - hackathon
+  abstract: >
+    Both the Identify-Build-Demonstrate and Find the Flag challenges for the
+    InCySe Hackathon 2025 are now open for participation.
+  content: >
+    The InCySe Hackathon 2025 has officially begun, running from April 7th to April 17th.
+    Both the Identify–Build–Demonstrate (IBD) and Find the Flag (FTF) challenges are live,
+    inviting students to showcase their skills in decentralized systems and industrial cybersecurity.
+
+    The IBD Challenge encourages participants to design and build decentralized applications using
+    technologies such as Ethereum and IPFS for industrial use cases including anomaly detection,
+    energy trading, and decentralized auctions. Teams will present a poster and working prototype
+    at the IEM Research Symposium on April 17th.
+
+    The Find the Flag Challenge tasks teams with uncovering vulnerabilities in a hosted
+    critical-infrastructure-inspired IT system. Participants gain hands-on experience with
+    security audits, REST API concepts, authentication mechanisms, and cyber-hygiene practices
+    for protecting industrial control systems.
+
+    Registration opened on March 12th, with tutorials released on March 19th. The submission
+    window opens April 7th, the FTF challenge releases April 9th, and all final submissions are
+    due April 16th. Winners will be announced at the IEM Awards Banquet on April 18th.
+
+    Prizes totaling $1400 are available across both competitions, with awards for winners
+    and runners-up in the IBD and FTF categories. Tutorials and resources covering blockchain,
+    cybersecurity fundamentals, and relevant Python tools are provided to support participants.
+    For questions, participants may contact the organizing team at incyse-hackathon@okstate.edu.
+
+- date: 03/14/25
+  title: "Differential Privacy for Regulatory Compliance in Cyberattack Detection on Energy Systems"
+  link: "https://disys-lab.github.io/news"
+  tags:
+    - talk
+  abstract: >
+    A presentation on privacy-preserving cyberattack detection for large-scale energy systems.
+  content: >
+    Dr. Ramanan presented a differential privacy framework designed to help regulators verify cyberattack
+    detection across multi-utility energy networks without exposing sensitive operational data.
+           
+
 - date: 10/19/24
   title: "DISys Lab Members are presenting their work at INFORMS 2024"
   link: "https://disys-lab.github.io/news"
@@ -55,7 +240,7 @@
            neuromorphic accelerators. This is joint work with Dr. Murat Yildirim, Gozde Tutuoncuoglu from Wayne State University.
 
 - date: 05/18/24
-  title: "IISE'24: Dr. Ramanan chairs a session and presents research on decentralized scenario generation"
+  title: "IISE 24: Dr. Ramanan chairs a session and presents research on decentralized scenario generation"
   tags:
     - talk
   abstract: Dr. Ramanan's session and presentation was part of the Energy Systems Division track at IISE 2024.
@@ -63,23 +248,13 @@
            Dr. Ramanan's session entitled "Privacy and Security in Power Systems" included talks on decentralized planning and operations in the power system domains
            while also including latest DISys Lab research on decentralized scenario generation.
 
-- date: 03/27/24
-  title: "Finalists for Energy Systems Division, Best Student Paper at IISE 2024"
-  tags:
-    - paper
-  abstract: Mohaimanul and Lucius have qualified for the best student paper award at the Energy Systems Division track at IISE 2024.
-  content: >
-           PhD students Mohaimanul Islam and Lucius Vo have been declared finalists for the Energy Systems Division, Best Student Paper Award competition at
-           the Institute of Industrial and Systems Engineers Annual Conference 2024 to be held in Montreal, Canada. Their submission entitled
-           "SplitVAES: Decentralized generation of scenarios from siloed data for stochastic optimization in large-scale power systems" focuses on generating 
-           high quality data driven scenarios for stochastic optimization problems.
 #
-#- date: 12/05/23
-#  title: "Masters thesis defense: Congratulations Timman!"
-#  tags:
-#    - defense
-#  abstract: Timman defends Master's thesis on the use of VAEs for generating stochastic optimization scenarios
-#  content: >
-#           Timman's research is aimed at removing computational and scalability barriers corresponding to the use of Variational Autoencoders (VAEs) for scenario generation
-#           for stochastic optimization problems.
+- date: 12/05/23
+  title: "Masters thesis defense: Congratulations Timman!"
+  tags:
+    - defense
+  abstract: Timman defends Master's thesis on the use of VAEs for generating stochastic optimization scenarios
+  content: >
+           Timman's research is aimed at removing computational and scalability barriers corresponding to the use of Variational Autoencoders (VAEs) for scenario generation
+           for stochastic optimization problems.
 #

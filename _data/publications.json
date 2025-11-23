@@ -1,5 +1,24 @@
 [
 	{
+		"id": "http://zotero.org/groups/5618423/items/ALTINPULLUK2024CRPS",
+		"type": "article-journal",
+		"container-title": "Cell Reports Physical Science",
+		"title": "Catalyzing deep decarbonization with federated battery diagnosis and prognosis for better data management in energy storage systems",
+		"link": "https://doi.org/10.1016/j.xcrp.2024.101876",
+		"author": [
+			{ "family": "Altinpulluk", "given": "Nur Banu" },
+			{ "family": "Altinpulluk", "given": "Deniz" },
+			{ "family": "Ramanan", "given": "Paritosh" },
+			{ "family": "Paulson", "given": "Noah H" },
+			{ "family": "Qiu", "given": "Feng" },
+			{ "family": "Babinec", "given": "Susan J" },
+			{ "family": "Yildirim", "given": "Murat" }
+		],
+		"issued": {
+			"date-parts": [[ "2024" ]]
+		}
+	},
+	{
 		"id": "http://zotero.org/groups/5618423/items/6H6AQU6U",
 		"type": "article-journal",
 		"container-title": "IEEE Transactions on Control of Network Systems",

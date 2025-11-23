@@ -51,14 +51,15 @@ permalink: /publications/
     </div>
 </div>
 
-<h1>Journal Publications</h1>
 
-<div class="panel-group" id="accordion-publications">
+<h1>Peer-Reviewed Conference Publications</h1>
+
+<div class="panel-group" id="accordion-conf-publications">
     <div class="panel panel-default">
 
-    {% for publi in site.data.publications %}
+    {% for publi in site.data.conferencepubs %}
         <div class="panel-heading">
-            <a data-toggle="collapse" data-parent="#accordion-publications"
+            <a data-toggle="collapse" data-parent="#accordion-conf-publications"
                href="#collapse{{forloop.index}}"
                style="color: inherit;">
             <!-- authors -->
@@ -101,14 +102,15 @@ permalink: /publications/
     </div>
 </div>
 
-<h1>Conference Publications</h1>
 
-<div class="panel-group" id="accordion-conf-publications">
+<h1>Journal Publications</h1>
+
+<div class="panel-group" id="accordion-publications">
     <div class="panel panel-default">
 
-    {% for publi in site.data.conferencepubs %}
+    {% for publi in site.data.publications %}
         <div class="panel-heading">
-            <a data-toggle="collapse" data-parent="#accordion-conf-publications"
+            <a data-toggle="collapse" data-parent="#accordion-publications"
                href="#collapse{{forloop.index}}"
                style="color: inherit;">
             <!-- authors -->
