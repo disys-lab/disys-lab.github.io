@@ -2,17 +2,17 @@
 layout: member
 category: phd-student
 title: Sathwik Yamana
-image: researcher.png
+image: sathwik.png
 role: PhD Student
 styear: 2025
 permalink: 'team/sathwik-yamana'
 social:
-    linkedin: https://www.linkedin.com/in/sathwik-yamana-704056233/
+    linkedin: http://www.linkedin.com/in/sathwik-yamana-704056233
     google-scholar: https://scholar.google.com/
-    github: https://github.com/
+    github: https://github.com/satwik4321
     website: 
-    orcid: https://orcid.org/my-orcid
-    research-gate: https://www.researchgate.net/
+    orcid: 
+    research-gate:
 education:
  - PhD Industrial Engineering, Aug 2025- May 2029 (Expected)
  - MS Computer Science, Oklahoma State University, Aug 2023 - May 2025
