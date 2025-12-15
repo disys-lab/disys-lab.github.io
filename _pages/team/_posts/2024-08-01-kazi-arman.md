@@ -11,7 +11,7 @@ social:
     linkedin: https://www.linkedin.com/in/kaziarman/
     google-scholar: https://scholar.google.com/citations?user=C6KttPcAAAAJ&hl=en
     github: https://github.com/KaziArman
-    website:https://kaziarman.github.io/
+    website: https://kaziarman.github.io/
     orcid: https://orcid.org/0000-0002-8224-9349
     research-gate: https://www.researchgate.net/profile/Kazi-Ahmed-35
 education:
