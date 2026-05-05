@@ -5,7 +5,7 @@
         "container-title": "arXiv preprint arXiv:2510.23060",
         "title": "zkSTAR: A zero knowledge system for time series attack detection enforcing regulatory compliance in critical infrastructure networks",
         "link": "https://arxiv.org/abs/2510.23060",
-		"status": "Under review at IEEE Conference on Security and Privacy 2026",
+		"status": "Under review at IEEE Transactions on Dependable and Secure Computing",
         "author": [
             { "family": "Ramanan", "given": "Paritosh" },
             { "family": "Islam", "given": "HM" },
@@ -21,7 +21,7 @@
         "container-title": "arXiv preprint arXiv:2508.08190",
         "title": "Differential Privacy for Regulatory Compliance in Cyberattack Detection on Critical Infrastructure Systems",
         "link": "https://arxiv.org/abs/2508.08190",
-		"status": "Under review at IEEE Conference on Security and Privacy 2026",
+		"status": "Under review at IEEE Transactions on Dependable and Secure Computing",
         "author": [
             { "family": "Ramanan", "given": "Paritosh" },
             { "family": "Islam", "given": "HM" },
@@ -51,7 +51,7 @@
         "container-title": "arXiv preprint arXiv:2505.14802",
         "title": "An Automated Data Engineering Pipeline for Time Series Classification Via Text Embeddings",
         "link": "https://arxiv.org/abs/2505.14802",
-		"status": "Under review at ICLR 2026",
+		"status": "Under review at IEEE Transactions on Automation Science",
         "author": [
             { "family": "Kazemian", "given": "Iman" },
             { "family": "Ramanan", "given": "Paritosh" },
