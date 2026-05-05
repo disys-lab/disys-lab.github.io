@@ -1,22 +1,4 @@
 [
-	{
-        "id": "http://zotero.org/groups/5618423/items/VO250813298",
-        "type": "article-journal",
-        "container-title": "arXiv preprint arXiv:2508.13298",
-        "title": "Harnessing the Full Potential of RRAMs through Scalable and Distributed In-Memory Computing with Integrated Error Correction",
-        "link": "https://arxiv.org/abs/2508.13298",
-		"status": "Under review at Nature Communications Engineering",
-        "author": [
-            { "family": "Vo", "given": "Huynh QN" },
-            { "family": "Chowdhury", "given": "Md Tawsif Rahman" },
-            { "family": "Ramanan", "given": "Paritosh" },
-            { "family": "Yildirim", "given": "Murat" },
-            { "family": "Tutuncuoglu", "given": "Gozde" }
-        ],
-        "issued": {
-            "date-parts": [[ "2025" ]]
-        }
-    },
 	 {
         "id": "http://zotero.org/groups/5618423/items/RAMANAN251023060",
         "type": "article-conference",
@@ -62,20 +44,6 @@
             { "family": "Ramanan", "given": "Paritosh" }
         ],
         "issued": { "date-parts": [[ "2024" ]] }
-    },
-    {
-        "id": "http://zotero.org/groups/5618423/items/KAZEMIAN250318780",
-        "type": "article-journal",
-        "container-title": "arXiv preprint arXiv:2503.18780",
-        "title": "AttenMfg: An Attention Network Based Optimization Framework for Sensor-Driven Operations & Maintenance in Manufacturing Systems",
-        "link": "https://arxiv.org/abs/2503.18780",
-		"status": "Under review at International Journal of Production Economics",
-        "author": [
-            { "family": "Kazemian", "given": "Iman" },
-            { "family": "Yildirim", "given": "Murat" },
-            { "family": "Ramanan", "given": "Paritosh" }
-        ],
-        "issued": { "date-parts": [[ "2025" ]] }
     },
     {
         "id": "http://zotero.org/groups/5618423/items/KAZEMIAN250514802",

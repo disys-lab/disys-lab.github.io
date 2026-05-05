@@ -1,3 +1,50 @@
+- date: 05/05/26
+  title: "Paper Accepted to International Journal of Production Economics!"
+  tags:
+    - publication
+  abstract: Iman's work on attention network-based optimization for sensor-driven operations and maintenance in manufacturing systems has been accepted to the International Journal of Production Economics.
+  content: >
+    Congratulations to Iman Kazemian on the acceptance
+    of their paper to the International Journal of Production Economics. Their work
+    introduces AttenMfg, an attention network-based optimization framework that leverages
+    real-time sensor data to drive smarter operations and maintenance decisions in
+    manufacturing systems. By combining the representational power of attention mechanisms
+    with principled optimization, AttenMfg enables adaptive, data-driven maintenance
+    scheduling that reduces downtime and improves operational efficiency — an important
+    step toward intelligent, self-optimizing production environments.
+
+- date: 05/05/26
+  title: "Paper Accepted to Nature Communications Engineering!"
+  tags:
+    - publication
+  abstract: Huynh's work on scalable distributed in-memory computing with RRAM crossbar arrays and integrated error correction has been accepted to Nature Communications Engineering.
+  content: >
+    Congratulations to Lucius on the acceptance of his paper to Nature Communications
+    Engineering. This work addresses a fundamental challenge in realizing the full
+    computational potential of resistive RAM (RRAM) crossbar arrays by developing a
+    scalable, distributed in-memory computing framework with integrated error correction.
+    The research tackles device-level noise and variability head-on, enabling reliable
+    large-scale matrix operations without sacrificing the energy and latency advantages
+    that make analog in-memory computing so compelling. 
+
+- date: 05/04/26
+  title: "Dr. Ramanan presents In-Memory research at ICERM, Brown University"
+  tags:
+    - talk
+  abstract: >
+    Dr. Ramanan delivered an invited talk on fault-tolerant, distributed in-memory computing
+    at the ICERM Topical Workshop on Asynchronous Methods for Numerical Linear Algebra,
+    Brown University.
+  content: >
+    Dr. Ramanan delivered an invited talk at the ICERM Topical Workshop on Asynchronous
+    Methods for Numerical Linear Algebra (Brown University, May 4–8, 2026), presenting
+    the DISYS Lab's algorithm–hardware co-design work on RRAM-based in-memory computing.
+    The talk covered MELISO, a distributed-memory IMC simulation framework, multi-level
+    error correction for resilient matrix-vector multiplication, an RRAM-based distributed
+    PDHG solver achieving up to three orders of magnitude energy savings over GPU
+    baselines, and the noise-informed IMC-RK method for solving linear systems on RRAM
+    hardware.
+
 - date: 11/17/25
   title: "Paper Accepted to SIAM Conference on Parallel Processing 2026!"
   tags:
