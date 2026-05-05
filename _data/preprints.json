@@ -1,5 +1,23 @@
 [
-	 {
+	{
+        "id": "http://zotero.org/groups/5618423/items/SHAHID2601.12136",
+        "type": "article-journal",
+        "container-title": "arXiv preprint arXiv:2601.12136",
+        "title": "CoSMeTIC: Zero-Knowledge Computational Sparse Merkle Trees with Inclusion-Exclusion Proofs for Clinical Research",
+        "link": "https://arxiv.org/abs/2601.12136",
+        "status": "Under review at ACM CCS 2026",
+        "author": [
+            { "family": "Shahid", "given": "Mohammad" },
+            { "family": "Ramanan", "given": "Paritosh" },
+            { "family": "Fili", "given": "Mohammad" },
+            { "family": "Hu", "given": "Guiping" },
+            { "family": "Haim", "given": "Hillel" }
+        ],
+        "issued": {
+            "date-parts": [[ "2026" ]]
+        }
+    },
+    {
         "id": "http://zotero.org/groups/5618423/items/RAMANAN251023060",
         "type": "article-conference",
         "container-title": "arXiv preprint arXiv:2510.23060",
