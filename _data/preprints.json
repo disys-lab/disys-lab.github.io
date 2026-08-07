@@ -38,10 +38,11 @@
         "id": "http://zotero.org/groups/5618423/items/RAMANAN250808190",
         "type": "article-conference",
         "container-title": "arXiv preprint arXiv:2508.08190",
-        "title": "Differential Privacy for Regulatory Compliance in Cyberattack Detection on Critical Infrastructure Systems",
+        "title": "PRECISE: Private Regulatory Compliance for Cyberattack Detection on Critical Infrastructure Systems",
         "link": "https://arxiv.org/abs/2508.08190",
-		"status": "Under review at IEEE Transactions on Dependable and Secure Computing",
+		"status": "Under review at ACM Transactions on Privacy and Security",
         "author": [
+            { "family": "Yamana", "given": "Sathwik" },
             { "family": "Ramanan", "given": "Paritosh" },
             { "family": "Islam", "given": "HM" },
             { "family": "Alugula", "given": "Abhiram Reddy" }
