@@ -51,20 +51,6 @@
             "date-parts": [[ "2025" ]]
         }
     },
-	    {
-        "id": "http://zotero.org/groups/5618423/items/KAZEMIAN241024052",
-        "type": "article-journal",
-        "container-title": "arXiv preprint arXiv:2410.24052",
-        "title": "Attention is All You Need to Optimize Wind Farm Operations and Maintenance",
-        "link": "https://arxiv.org/abs/2410.24052",
-			"status": "Under review at INFORMS Journal on Data Science",
-        "author": [
-            { "family": "Kazemian", "given": "Iman" },
-            { "family": "Yildirim", "given": "Murat" },
-            { "family": "Ramanan", "given": "Paritosh" }
-        ],
-        "issued": { "date-parts": [[ "2024" ]] }
-    },
     {
         "id": "http://zotero.org/groups/5618423/items/KAZEMIAN250514802",
         "type": "article-journal",
