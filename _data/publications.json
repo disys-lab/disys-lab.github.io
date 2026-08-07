@@ -19,10 +19,10 @@
 	{
         "id": "http://zotero.org/groups/5618423/items/KAZEMIAN241024052",
         "type": "article-journal",
-        "container-title": "arXiv preprint arXiv:2410.24052",
+        "container-title": "INFORMS Journal on Data Science (Special Issue: Dual Edge of AI)",
         "title": "Attention is All You Need to Optimize Wind Farm Operations and Maintenance",
         "link": "https://arxiv.org/abs/2410.24052",
-        "status": "Accepted INFORMS Journal on Data Science (Special Issue: Dual Edge of AI)",
+        "status": "Accepted",
         "author": [
             { "family": "Kazemian", "given": "Iman" },
             { "family": "Yildirim", "given": "Murat" },
@@ -33,10 +33,10 @@
 	{
         "id": "http://zotero.org/groups/5618423/items/KAZEMIAN250318780",
         "type": "article-journal",
-        "container-title": "arXiv preprint arXiv:2503.18780",
+        "container-title": "International Journal of Production Economics",
         "title": "AttenMfg: An Attention Network Based Optimization Framework for Sensor-Driven Operations & Maintenance in Manufacturing Systems",
         "link": "https://arxiv.org/abs/2503.18780",
-		"status": "Accepted International Journal of Production Economics",
+		"status": "Accepted",
         "author": [
             { "family": "Kazemian", "given": "Iman" },
             { "family": "Yildirim", "given": "Murat" },
