@@ -1,5 +1,19 @@
 [
 	{
+        "id": "http://zotero.org/groups/5618423/items/REED2026EPSR",
+        "type": "article-journal",
+        "title": "Decentralized Operations of Decarbonized Chemical Plants with Renewable-driven Transmission Systems",
+        "status": "Under review at Electrical Power Systems Research",
+        "author": [
+            { "family": "Reed", "given": "Richard" },
+            { "family": "Ahmed", "given": "Kazi Arman" },
+            { "family": "Ghasemi", "given": "Saba" },
+            { "family": "Jiang", "given": "Zheyu" },
+            { "family": "Ramanan", "given": "Paritosh" }
+        ],
+        "issued": { "date-parts": [[ "2026" ]] }
+    },
+	{
         "id": "http://zotero.org/groups/5618423/items/SHAHID2601.12136",
         "type": "article-journal",
         "container-title": "arXiv preprint arXiv:2601.12136",
