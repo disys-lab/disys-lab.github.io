@@ -1,5 +1,18 @@
 [
 	{
+        "id": "http://zotero.org/groups/5618423/items/5ACPAJM4",
+        "type": "article-conference",
+        "container-title": "IEEE International Conference on Machine Learning Applications (ICMLA)",
+        "title": "PINPOINT: A Variational Autoencoder Framework for Robust, Physics-Informed Cyberattack Recognition in Industrial Cyber-Physical Systems",
+        "link": "https://arxiv.org/abs/2310.06948",
+        "author": [
+            { "family": "Aftabi", "given": "Navid" },
+            { "family": "Li", "given": "Dan" },
+            { "family": "Ramanan", "given": "Paritosh" }
+        ],
+        "issued": { "date-parts": [[ "2026" ]] }
+    },
+	{
         "id": "http://zotero.org/groups/5618423/items/RANE2026NAMRC",
         "type": "article-conference",
         "container-title": "54th SME North American Manufacturing Research Conference",
